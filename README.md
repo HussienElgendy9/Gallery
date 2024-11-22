@@ -22,4 +22,4 @@ For the full demo, watch the video here: [EgPics Video](https://drive.google.com
 ---
 
 ## Acknowledgment 🙌  
-Developed in collaboration with **[Hussien Elgendy](https://github.com/HussienElgendy9)**.  
+Developed in collaboration with **[Omar Maged](https://github.com/omarmaged23)**.  
