@@ -17,7 +17,7 @@ Experience EgPics in action:
 
 ![EgPics Demo](demo.gif)
 
-For the full demo, watch the video here: [EgPics Video](https://drive.google.com/file/d/your-file-id/view)
+For the full demo, watch the video here: [EgPics Video](https://drive.google.com/file/d/178wh0jw8Kwmyr83Lnrc9_4G6j2v9tJls/view?usp=sharing)
 
 ---
 
